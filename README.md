@@ -1,10 +1,15 @@
-- 👋 Hi, I’m @rishabhraymond
-- 👀 I’m interested in learing new technologies especially in game development
-- 🌱 I’m currently learning HTML/CSS/JS along with C#.NET and Unity
-- 💞️ I’m looking to collaborate on Full Stack and Game Projects
+- 👋 Hello everyone!
+- My name is Rishabh Sinha aka @rishabhraymond
+- Currently working as a Full Stack Developer 
+    - React 
+    - C#
+    - SQL (MS Sequel Server & Postgres)
+    - Working knowledge on Azure (Blob Storage, Event Hub etc)
 - 📫 How to reach me 
-    My email ID: rsrishabh007@gmail.com
-    My linkedIn ID: https://www.linkedin.com/in/rishabh-sinha-88a7b758/
+    - My email ID: rsrishabh007@gmail.com
+    - My linkedIn ID: https://www.linkedin.com/in/rishabh-sinha-88a7b758/
+    
+
 
 <!---
 rishabhraymond/rishabhraymond is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
